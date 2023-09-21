@@ -1,16 +1,12 @@
-### Hi there 👋
+### My name is Vladimir, nice to meet you!
 
-<!--
-**thoughtspile/thoughtspile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Building web things, mainly React / svelte frontends, node.js and, generally, JS / TS.
+- Interested in web development? Check out my blog, [blog.thoughtspile.tech](https://blog.thoughtspile.tech/)
+- Want to be bombarded with information? [X / twitter,](https://twitter.com/thoughtspile) [telegram (ru),](https://t.me/thoughtspile) [Mastodon.](https://mastodon.online/@thoughtspile) 
+- Neat 3D visualization library: [grafar.](https://blog.thoughtspile.tech/grafar/)
+- Fighting for a world with less JS:
+  - [🤏 awesome-tiny-js,](https://github.com/thoughtspile/awesome-tiny-js) assorted JS libraries under 2 kB.
+  - [🧨 banditypes,](https://github.com/thoughtspile/banditypes) the smallest JS / TS validation library.
+  - [🔒 banditstash,](https://github.com/thoughtspile/banditstash) a 500-byte `localStorage` helper.
+- Studying Machine Learining at [ITMO University.](https://en.wikipedia.org/wiki/ITMO_University)
+- Like my work? [Buy me a coffee ☕](https://buymeacoffee.com/thoughtspile)
