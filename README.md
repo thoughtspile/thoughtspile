@@ -1,13 +1,18 @@
 ### My name is Vladimir, nice to meet you!
 
-- Building web things, mainly React / svelte frontends, node.js and, generally, JS / TS.
-- Interested in web development? Check out my blog, [blog.thoughtspile.tech](https://blog.thoughtspile.tech/)
-- Studying Machine Learining at [ITMO University.](https://en.wikipedia.org/wiki/ITMO_University)
+- I build web things, mainly React / svelte frontends, node.js and, generally, JS / TS.
+- Interested in web development? Check out my blog at [blog.thoughtspile.tech](https://blog.thoughtspile.tech/)
+- I study Machine Learining at [ITMO University.](https://en.wikipedia.org/wiki/ITMO_University)
 - Want to be bombarded with information? [X / twitter,](https://twitter.com/thoughtspile) [telegram (ru),](https://t.me/thoughtspile) [Mastodon.](https://mastodon.online/@thoughtspile) 
 - We could connect on [LinkedIn](https://www.linkedin.com/in/vklepov/) if you want to.
-- Neat 3D visualization library: [grafar.](https://blog.thoughtspile.tech/grafar/)
+
+Here are some things I built:
+
+- [🦛 hippotable](https://blog.thoughtspile.tech/hippotable/) — view and analyze data in your browser.
+- [📈 grafar](https://blog.thoughtspile.tech/grafar/) — real-time 3D visualization.
 - Fighting for a world with less JS:
   - [🤏 awesome-tiny-js,](https://github.com/thoughtspile/awesome-tiny-js) assorted JS libraries under 2 kB.
   - [🧨 banditypes,](https://github.com/thoughtspile/banditypes) the smallest JS / TS validation library.
   - [🔒 banditstash,](https://github.com/thoughtspile/banditstash) a 500-byte `localStorage` helper.
-- Like my work? [Buy me a coffee ☕](https://buymeacoffee.com/thoughtspile)
+
+Like my work? [Buy me a coffee ☕](https://buymeacoffee.com/thoughtspile)
