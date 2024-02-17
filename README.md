@@ -1,10 +1,10 @@
 ### My name is Vladimir, nice to meet you!
 
-- I build web things, mainly React / svelte frontends, node.js and, generally, JS / TS.
+- I build web things and lead teams at large companies.
+- As an engineer, I specialize in React / svelte frontends, node.js and, generally, JS / TS.
 - Interested in web development? Check out my blog at [blog.thoughtspile.tech](https://blog.thoughtspile.tech/)
 - I study Machine Learining at [ITMO University.](https://en.wikipedia.org/wiki/ITMO_University)
-- Want to be bombarded with information? [X / twitter,](https://twitter.com/thoughtspile) [telegram (ru),](https://t.me/thoughtspile) [Mastodon.](https://mastodon.online/@thoughtspile) 
-- We could connect on [LinkedIn](https://www.linkedin.com/in/vklepov/) if you want to.
+  We could connect on [LinkedIn](https://www.linkedin.com/in/vklepov/) if you want to.
 
 Here are some things I built:
 
