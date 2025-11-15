@@ -2,7 +2,7 @@
 
 - I build web things and lead teams at large companies.
 - As an engineer, I specialize in React / svelte frontends, node.js and, generally, JS / TS.
-- Interested in web development? Check out my blog at [blog.thoughtspile.tech](https://blog.thoughtspile.tech/)
+- Interested in web development? Check out my blog at [thoughtspile.github.io](https://thoughtspile.github.io)
 - I study Machine Learining at [ITMO University.](https://en.wikipedia.org/wiki/ITMO_University)
   We could connect on [LinkedIn](https://www.linkedin.com/in/vklepov/) if you want to.
 
